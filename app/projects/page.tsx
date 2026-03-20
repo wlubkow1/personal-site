@@ -2,7 +2,7 @@ import { projects } from "@/data/projects";
 
 export default function ProjectsPage() {
   return (
-    <main>
+    <main className="text-white">
       <h1 className="text-3xl font-bold mb-2">Projects</h1>
       <p className="text-gray-300 mb-8 text-sm">
         Projects I have created, or am actively working on.

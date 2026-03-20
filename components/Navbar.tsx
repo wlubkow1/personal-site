@@ -15,7 +15,7 @@ export default function Navbar() {
   const pathname = usePathname();
 
   return (
-    <header className="mb-10">
+    <header className="mb-10 text-white">
       <nav className="flex flex-col md:flex-row md:items-center md:justify-between gap-10">
         {/* Left: name + tag line */}
         <div className="flex items-center gap-3">

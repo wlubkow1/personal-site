@@ -463,7 +463,7 @@ export default function SkillsPage() {
   const preorderVals = preorder(bstRoot);
 
   return (
-    <main className="space-y-10">
+    <main className="space-y-10 text-white">
       {/* Skills Overview */}
       <section>
         <h1 className="text-3xl font-bold mb-2">Skills</h1>

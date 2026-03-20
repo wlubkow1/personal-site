@@ -1,6 +1,6 @@
 export default function Contact() {
   return (
-    <main>
+    <main className="text-white">
       <h1 className="text-3xl font-bold mb-3">Contact</h1>
       <p className="text-gray-300 mb-6 text-sm">
         The easiest way to reach me is by email or LinkedIn.
