@@ -25,8 +25,7 @@ export default function Home() {
         </h1>
 
         <p className="text-lg text-gray-200 max-w-2xl leading-relaxed">
-          I have graduated with my
-          my B.S in CS at UMBC and looking forward to entering the workforce after my December 2025 graduation date. As an aspiring 
+          I have graduated with my B.S in Computer Science at UMBC and I am looking forward to entering the workforce following my December 2025 graduation date. As an aspiring 
           Software Engineer, I&apos;m excited to find a team
           where I will be pushed to my fullest and actively learn new things!
         </p>
