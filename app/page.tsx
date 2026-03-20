@@ -9,7 +9,7 @@ function TerminalLine({ prompt, text }: { prompt: string; text: string }) {
 
 export default function Home() {
   return (
-    <main className="space-y-10">
+    <main className="space-y-10 text-white">
       {/* Hero */}
       <section className="space-y-5">
         {/* <p className="text-[11px] uppercase tracking-[0.25em] text-indigo-300">
@@ -39,12 +39,20 @@ export default function Home() {
             View Projects
           </a>
           <a
-            href="/wjlCV.pdf"
+            href="/wjl_2026_resume.pdf"
             target="_blank"
             rel="noopener noreferrer"
             className="border border-gray-500/70 hover:bg-gray-900 px-4 py-2 rounded-lg text-sm transition"
           >
             Download Resume
+          </a>
+          <a
+            href="/umbc_transcript.pdf"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="border border-gray-500/70 hover:bg-gray-900 px-4 py-2 rounded-lg text-sm transition"
+          >
+            Download Transcript
           </a>
         </div>
       </section>

@@ -23,8 +23,8 @@ export default function Navbar() {
             <Image
                 src="/headshot.jpg"     
                 alt="Wojciech Lubkowski"
-                width={36}
-                height={36}
+                width={176}
+                height={176}
                 className="h-full w-full object-cover"
                 priority
             />
