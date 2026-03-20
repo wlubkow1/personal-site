@@ -18,7 +18,7 @@ export const projects: Project[] = [
     role: "Solo developer",
     stack: ["React", "TypeScript", "Supabase", "Postgres", "Tailwind"],
     link: "https://github.com/wlubkow1/publicKnowYourNotes",
-    live: "https://know-your-notes.com/",
+    live: "https://know-your-notes .com/",
     highlight: "Live search, user collections, and custom accord charts.",
   },
   {
@@ -28,7 +28,7 @@ export const projects: Project[] = [
       "Cross-platform finance app to track expenses, budgets, and savings with a clean mobile-first UI.",
     role: "Solo developer",
     stack: [".NET MAUI", "C#", "SQLite"],
-    link: "https://github.com/mjani23/budget-buddy",
+    link: "https://github.com/wlubkow1/budget-buddy",
     highlight: "Savings logic, categorized expenses, and polished MAUI UI.",
   },
   {
@@ -38,7 +38,7 @@ export const projects: Project[] = [
       "2D Unity game where kids learn math, spelling, and Spanish through minigames, inventory, and a shop system.",
     role: "Designer & programmer",
     stack: ["Unity", "C#", "2D Game Dev"],
-    link: "https://github.com/mjani23/Scholarly-Sorcery",
+    link: "https://github.com/wlubkow1/Scholarly-Sorcery",
     highlight:
       "Multiple minigames, player inventory/store, and kid-friendly UX.",
   },
